@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 , Nuevo tiempo Ecuador
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_slspa.m3u8
+
+
+#EXTINF:-1 , red adevenir 
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
+
+#EXTINF:-1 , Nuevo tiempo Peru
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_slspa.m3u8
+
+
+#EXTINF:-1 , Novo tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="160" tvg-name="Dios Te Ve Kids" tvg-logo="https://cdn.m3u.cl/logo/160_Dios_Te_Ve_Kids.png", Dios Te Ve Kids | HN
+https://emisoras.hn:8081/diostevekids/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="Hispanos",Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.adventistas.org/noticias/es/2019/05/27155702/TV-T1.jpg" group-title="Hispanos",Nuevo Tiempo TV
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_slspa.m3u8
